@@ -24,9 +24,9 @@ Python 2.7
  - conda install scipy
 
 ## Python repositories version information
-opencv-3.4.2
-scikit-learn-0.24.2
-matplotlib-3.4.2
-nltk-3.6.2
-scipy-1.6.2
-numpy-1.17.0
+ - opencv-3.4.2
+ - scikit-learn-0.24.2
+ - matplotlib-3.4.2
+ - nltk-3.6.2
+ - scipy-1.6.2
+ - numpy-1.17.0
